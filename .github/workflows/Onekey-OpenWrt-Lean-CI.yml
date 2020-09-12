@@ -135,7 +135,7 @@ jobs:
         # CONFIG_PACKAGE_luci-app-amule is not set
         CONFIG_PACKAGE_luci-app-aria2=y
         CONFIG_PACKAGE_luci-app-autopoweroff=y
-        CONFIG_PACKAGE_luci-app-clash=y
+        CONFIG_PACKAGE_luci-app-clash=m
         CONFIG_PACKAGE_luci-app-control-mia=y
         CONFIG_PACKAGE_luci-app-control-timewol=y
         CONFIG_PACKAGE_luci-app-control-webrestriction=y
@@ -151,11 +151,11 @@ jobs:
         # CONFIG_PACKAGE_luci-app-fileassistant=y
         CONFIG_PACKAGE_luci-app-mwan3=y
         CONFIG_PACKAGE_luci-app-oaf=y
-        CONFIG_PACKAGE_luci-app-openclash=y
+        CONFIG_PACKAGE_luci-app-openclash=m
         # CONFIG_PACKAGE_luci-app-openvpn-server is not set
         CONFIG_PACKAGE_luci-app-passwall=y
         CONFIG_PACKAGE_luci-app-serverchan=y
-        CONFIG_PACKAGE_luci-app-smartdns=y
+        CONFIG_PACKAGE_luci-app-smartdns=m
         CONFIG_PACKAGE_luci-app-smartinfo=y
         CONFIG_PACKAGE_luci-app-syncdial=y
         # CONFIG_PACKAGE_luci-app-vlmcsd is not set
