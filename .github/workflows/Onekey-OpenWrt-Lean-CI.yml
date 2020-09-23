@@ -3,7 +3,7 @@
 # Author: sirpdboy
 # https://github.com/sirpdboy/OnkeyOpenwrt
 
-name: Onekey-OpenWrt-Lean-CI
+name: Onekey-OpenWrt-CI
 
 on:
   push:
